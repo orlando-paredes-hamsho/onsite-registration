@@ -1,0 +1,7 @@
+/node_modules
+bundle.js
+npm-debug.log
+/.git
+/.c9
+/.env
+haters
